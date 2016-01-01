@@ -1,0 +1,9 @@
+body{
+	background-color: red;
+}
+img{
+	max-width: 100%;
+}
+.quitar-float{
+	float: none;
+}
